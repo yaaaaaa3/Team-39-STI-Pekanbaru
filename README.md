@@ -1,4 +1,5 @@
-# Pressure Plate Door - Team 39 STI Pekanbaru
+# *Pressure Plate Door* 
+- Team 39 STI Pekanbaru
 
 Sistem otomatisasi pintu berbasis **ESP32** yang menggunakan beberapa sensor dan dikontrol melalui aplikasi **Streamlit** berbasis Python.
 
@@ -27,6 +28,7 @@ Sistem otomatisasi pintu berbasis **ESP32** yang menggunakan beberapa sensor dan
 - [Streamlit](https://streamlit.io/)
 - PySerial (`pyserial`)
 - Arduino IDE untuk pemrograman ESP32
+- Thonny
 
 ---
 

@@ -12,9 +12,9 @@ Sistem otomatisasi pintu berbasis **ESP32** yang menggunakan beberapa sensor dan
 
 ## 🧰 Perangkat Keras
 
-- ESP32 Dev Board
+- Mikrokontroler ESP32
 - Sensor Fingerprint AS608
-- LoadCell + HX711 Module
+- LoadCell HX711 Module
 - Motor Servo SG90 / MG996R
 - Breadboard dan kabel jumper
 - LED
@@ -39,3 +39,4 @@ Aplikasi Streamlit menampilkan:
 - Status fingerprint
 - Status servo pintu (terbuka/tertutup)
 - Riwayat Berat
+- Blynk untuk IoT yang menampilkan (Berat badan, Nama User, Probability, Status Verivikasi Masuk)

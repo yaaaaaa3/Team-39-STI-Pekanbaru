@@ -31,7 +31,6 @@ Sistem otomatisasi pintu berbasis **ESP32** yang menggunakan beberapa sensor dan
 ## 📊 Tampilan Dashboard
 
 Aplikasi Streamlit menampilkan:
-- Berat dari load cell
 - Status fingerprint
 - Status servo pintu (terbuka/tertutup)
 - Riwayat Berat

@@ -29,6 +29,7 @@ Sistem otomatisasi pintu berbasis **ESP32** yang menggunakan beberapa sensor dan
 - PySerial (`pyserial`)
 - Arduino IDE untuk pemrograman ESP32
 - VisualStudio Code
+- Blynk Cloud
 
 ---
 
